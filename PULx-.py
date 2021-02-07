@@ -8,7 +8,7 @@ p="\033[1;35m" # ungu
 cy="\033[1;36m" # biru muda
 w="\033[1;37m" # putih
 sleep 3
-echo $w"==============================================="
+echo $w"======================•========================"
 sleep 1
 echo $cy" Author  "$w": "$cy"Saipul Anuwar"
 sleep 1
